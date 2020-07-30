@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+./module/camera264/camera264
+./module/camera264-by-pipe/camera-by-pipe
